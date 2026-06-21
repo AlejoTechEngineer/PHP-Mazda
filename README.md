@@ -1,3 +1,5 @@
+<div align="center">
+
 # PHP-Mazda
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -7,6 +9,10 @@
 > Aplicación web para concesionario automotriz Mazda desarrollada en PHP.
 
 ## Descripción
+
+</div>
+
+---
 
 Prototipo de aplicación web orientada a la gestión y visualización del catálogo de vehículos de un concesionario Mazda. Implementa la lógica de presentación del lado del servidor con PHP, estructuración semántica en HTML5 y estilos responsivos en CSS3.
 
@@ -22,3 +28,11 @@ Prototipo de aplicación web orientada a la gestión y visualización del catál
 
 **Alejandro De Mendoza** — Ingeniero Informático · Especialista en IA · Máster en Arquitectura de Software
 
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
