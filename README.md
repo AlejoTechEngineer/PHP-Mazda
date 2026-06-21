@@ -16,6 +16,18 @@
 
 Prototipo de aplicación web orientada a la gestión y visualización del catálogo de vehículos de un concesionario Mazda. Implementa la lógica de presentación del lado del servidor con PHP, estructuración semántica en HTML5 y estilos responsivos en CSS3.
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Navegador Web - Cliente] --> B[index.php - Punto de Entrada]
+    B --> C[Logica PHP - Server-Side Rendering]
+    C --> D[Catalogo de Vehiculos - Modelos Mazda]
+    C --> E[Plantillas HTML5 - Estructura Semantica]
+    E --> F[CSS3 - Estilos Responsivos]
+    D & E & F --> G[Paginas Dinamicas - Visualizacion Renderizada]
+```
+
 ## Tecnologías
 
 | Tecnología | Uso |
